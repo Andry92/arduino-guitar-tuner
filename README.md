@@ -1,4 +1,4 @@
-# arduino-electric-guitar-tuner
+# arduino-guitar-tuner
 Electric guitar tuner built with Arduino board
 
 MATERIALS:
