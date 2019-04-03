@@ -13,4 +13,4 @@ I used and readapt code by amandaghassaei that you can see in this link:
 https://www.instructables.com/id/Arduino-Frequency-Detection/
 
 
-You can see the demonstration video [here](https://andry92.github.io/arduino-guitar-tuner/index.html).
+You can see the demonstration video [here](https://andry92.github.io/arduino-guitar-tuner/).
