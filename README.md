@@ -1,5 +1,5 @@
 # arduino-guitar-tuner
-Electric guitar tuner built with Arduino board
+Electric guitar tuner built with Arduino board. To see if the string is tuned the Arduino IDE Serial Plotter is used: if input signal overlaps with the reference note than the note is tuned.
 
 MATERIALS:
 - Arduino board: RobotDyn UNO CH340/ATmega328PA.
